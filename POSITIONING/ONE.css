@@ -1,0 +1,172 @@
+
+
+.logo{height: 70px;
+    width: 120px;
+    border: 1px black;
+    background: url(OIP.jpg);
+    background-position: center center;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    position: relative;left: -37px;
+    position: relative;bottom: 5px;}
+
+
+.bord{width: 2500px;
+    height: 60px;
+    border: 2px solid rgb(156, 149, 149);
+    background-color: rgb(255, 255, 255);
+position:absolute;left:0px;
+position:fixed;top:0px;
+z-index: 1;}
+    
+.one{color: rgb(0, 0, 0);
+    font-size:x-large;
+    position: relative;left: 65px;
+    position: relative;bottom: 55px;}
+
+ .two{color: rgb(0, 0, 0);
+        font-size: x-large;
+        position: relative;right:-2400px;
+        position: relative;top: -80px;}
+    
+ .three{color: rgb(0, 0, 0);
+    font-size: large;
+    position: relative;left: 700px;
+    position: relative;top: 255px;}
+
+.four{color: rgb(0, 0, 0);
+    font-size: large;
+    position: relative;right: -1080px;
+    position: relative;top: 295px;}
+
+.five{color: rgb(0, 0, 0);
+        font-size: x-large;
+        position: relative;left: 930px;
+        position: relative;top: 449px;}
+        
+.six{color: rgb(0, 0, 0);
+    font-size: x-large;
+    position: relative;left: 690px;
+    position: relative;top: 440px;}
+
+.seven{color: rgb(0, 0, 0);
+    font-size: x-large;
+    position: relative;left: 690px;
+    position: relative;bottom: -490px;}
+.eight{position: relative;left: 690px;
+        position: relative;top: 620px;}
+
+.details{width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    position: relative;left: 690px;
+    position: relative;top: 170px;
+ }
+    
+.logo2
+{height: 120px;
+    width: 120px;
+    border: 1px black;
+    background: url();}
+
+ .line{  height: 1px;
+        width: 225px;
+        border: 0px solid rgba(168, 160, 160, 0.491);
+        background-color: rgba(0, 0, 0, 0.247);
+        position: relative;left: -0px;
+        position: relative;top: -78px;}
+
+.line1{  height: 1px;
+        width: 230px;
+        border: 0px solid rgb(168, 160, 160);
+        background-color: rgba(0, 0, 0, 0.429);
+        position: relative;left: 270px;
+        position: relative;bottom: 80px;}
+
+ .submit{width: 80px;
+
+    height:40px;
+    background-color:blue ;
+    position: absolute;left: 400px;
+    position: absolute;top: 390px;
+     border-radius: 5px;
+    color:white;
+    font-variant-position: sub ;
+font-size: large;}
+.me{position:relative;left: 0px;
+    position:relative;top: -30px; }
+    .pass{height:40px ;
+        width:500px ;
+        border: 1px solid black;
+         position: relative;left: -0px;
+    position: relative;top: -70px;}
+
+.foot{height: 600px;
+width:2500px ;
+background-color: black;
+border: 1px solid black;
+position: relative;left:0px ;
+position: relative;bottom:-200px ;
+color: rgb(255, 31, 31);
+
+}
+
+
+    .log{height:40px ;
+        width:500px ;
+        border: 1px solid black;
+         position: relative;left: -0px;
+    position: relative;top: -70px;}
+    
+ .B{height: 50px;
+    width: 500px;
+    border: 1px solid rgb(168, 160, 160);
+    background-color: rgb(255, 255, 255);
+   }
+
+ .C{height: 50px;
+    width: 500px;
+    border: 4px solid rgb(168, 160, 160);
+    background-color: rgb(255, 255, 255);
+    position: relative;left: -5px;
+    position: relative;top: 70px;
+background:url(apple.png);
+background-repeat: no-repeat;
+background-size: 30px;
+background-position:20px ;}
+
+.D{height: 50px;
+    width: 500px;
+    border: 1px solid black;
+    position: relative;right: 1px;
+    position: relative;bottom:180px;
+background:url(google.png);
+background-repeat: no-repeat;
+background-size: 30px;
+background-position: 20px;
+}
+
+
+.down{position: relative;left:20px ;
+position: relative;bottom:-10px ;
+font-size: xx-large;
+display: flex;
+flex-direction: column;
+justify-content: space-evenly;
+
+}
+.bag{position: relative;left:500px ;
+position: relative;bottom:330px;
+font-size: xx-large;
+}
+.app{position: relative;left:1000px ;
+position: relative;bottom: 670px;
+font-size: xx-large;
+}
+.net{position: relative;left:1500px ;
+position: relative;bottom:1110px ;
+font-size: xx-large;}
+.jet{position: relative;left:2000px ;
+position: relative;bottom:1380px;
+font-size: xx-large;}
+

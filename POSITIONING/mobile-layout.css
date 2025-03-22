@@ -1,0 +1,71 @@
+.parent{
+  display: flex;
+  flex-direction: row;
+
+}
+
+
+.child{
+  width:35vw ;
+  height:20vh ;
+  border: 3px solid black;
+}
+
+.part{
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+ justify-items: space-evenly;
+
+}
+
+
+.pat{
+  width:40vw ;
+  height:50vh ;
+  border: 3px solid black;
+}
+.four,.one ,.two,.five{
+  margin-right: 20px;
+}
+
+
+
+@media screen and (max-width:600px)
+{.parent ,.part{display : flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  }
+
+
+@media desktop
+ and (max-width:900px)
+{.parent{
+  height: 200px;
+}
+  }
+
+
+  
+
+
+
+.one:hover {background-color: aqua
+  ;}
+
+.two:hover {background-color: rgb(0, 0, 0)
+  ;}
+
+.three:hover {background-color: rgb(183, 2, 2)
+  ;}
+.four:hover {background-color: rgb(136, 255, 0)
+  ;}
+.five:hover {background-color: rgb(13, 0, 255)
+  ;}
+.six:hover {background-color: rgb(255, 242, 0)
+  ;}
+.one:active {background-color: rgb(0, 0, 0);
+  cursor: crosshair;
+  

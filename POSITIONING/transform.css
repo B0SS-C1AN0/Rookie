@@ -1,0 +1,113 @@
+.box3{
+  height:100px ;
+width:300px ;
+display:inline;
+border: 1px solid rgb(0, 0, 0);
+background-color: aqua;
+transition: 2s;
+}
+.box:hover
+{transform: scale(7);
+}
+
+
+.box2{height: 300px;
+        width: 300px;
+          border: 5px dashed rgb(255, 255, 255);
+        transition:2s ;
+      position: relative;left:50% ;
+position: relative;top:20% ;
+background-color:red ;
+border-radius: 50%;}
+  
+.box1:hover{
+transform:translateX(-120px) scale(2) ;
+ ;
+}
+
+
+.box2{height: 300px;
+        width: 300px;
+          border: 5px dashed rgb(255, 255, 255);
+        transition:2s ;
+      position: absolute;left:50% ;
+position: absolute;top:70% ;
+background-color:red;
+transition-duration: 4s;
+border-radius: 50%;
+
+
+}
+
+.box2:hover{
+  transform: translateX(120px)rotate(360deg);
+  
+
+}
+
+.box{
+  width: 500px;
+  height: 500px;
+  border: 3px solid black;
+  border-radius: 50%;
+  background: blue;
+
+}
+
+
+.one{
+  width: 50px;
+  height: 50px;
+  border: 3px solid black;
+  border-radius: 50%;
+  background: rgb(255, 255, 255);
+}
+
+.two{
+  width: 50px;
+  height: 50px;
+  border: 3px solid black;
+  border-radius: 50%;
+  background: rgb(255, 255, 255);
+
+.three{
+  width: 50px;
+  height: 50px;
+  border: 3px solid black;
+  border-radius: 50%;
+  background: rgb(255, 255, 255);
+
+}
+
+.four{
+  width: 50px;
+  height: 50px;
+  border: 3px solid black;
+  border-radius: 50%;
+  background: rgb(255, 255, 255);}
+
+  .five{
+  width: 50px;
+  height: 50px;
+  border: 3px solid black;
+  border-radius: 50%;
+  background: rgb(255, 255, 255);}
+
+  .six{
+  width: 50px;
+  height: 50px;
+  border: 3px solid black;
+  border-radius: 50%;
+  background: rgb(255, 255, 255);}
+
+  .seven{width: 50px;
+  height: 50px;
+  border: 3px solid black;
+  border-radius: 50%;
+  background: rgb(255, 255, 255);}
+
+  .eight{width: 50px;
+  height: 50px;
+  border: 3px solid black;
+  border-radius: 50%;
+  background: rgb(255, 255, 255);}

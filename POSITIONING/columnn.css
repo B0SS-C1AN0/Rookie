@@ -1,0 +1,31 @@
+.a{
+  width:100vw ;
+  height:50vh ;
+  display:column ;
+  column-count: 1;
+  font-size:larger;
+}
+
+.b{
+  width:50vw ;
+  height:50vh ;
+  display:column ;
+  column-count:1 ;
+  font-size: larger;
+}
+
+
+.boss{ width: 10vw;
+  height: 10vh;
+  border: 5px solid black;
+display: column;}
+
+
+p:first-letter{
+  font-size: 2rem;
+  color:purple;
+  font-family: fantasy;
+  text-transform:uppercase ;
+
+
+}

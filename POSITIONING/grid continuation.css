@@ -1,0 +1,12 @@
+.parent{
+  width: 150vw;
+  height: 150vh;
+  
+  display: grid;
+  grid-template-columns:repeat(3,1fr) ;
+}
+.child{border: 1px solid black;
+  
+}
+.one{background-color: hsl(49, 100%, 52%);}
+.two{background-color: hsl(0, 0%, 0%);}

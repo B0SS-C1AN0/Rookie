@@ -1,0 +1,13 @@
+.box1{
+     height:500px ;
+     width:500px ;
+     border:2px solid hsl(0, 0%, 0%);
+     background-color: hsl(248, 53%, 58%);
+
+}
+
+
+h1 {
+     position: relative;left: 20%;
+     position:top:relative; top: 40%;
+}

@@ -1,0 +1,7 @@
+.box{
+     height:100px;
+     width: 100px;
+     border: 1px solid hsl(0, 0%, 0%);
+     background-color: hsl(233, 0%, 50%);
+     margin: 300px 300px 300px 300px;
+}

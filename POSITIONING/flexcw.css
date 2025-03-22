@@ -1,0 +1,19 @@
+.parent{ height: 100vh;
+     width: 100vh;
+     display: flex;
+     flex-direction:row;
+     justify-content: center;
+     align-items:center ;
+     
+}
+.child{
+     height: 500px;
+     width:500px ;
+     background-color: hsl(180, 100%, 50%);
+}
+.box{
+     height: 100px;
+     width: 100px;
+     border: 1px solid hsl(0, 0%, 0%);
+     justify-content: center;
+}

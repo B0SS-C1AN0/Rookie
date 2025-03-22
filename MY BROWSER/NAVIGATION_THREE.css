@@ -1,0 +1,60 @@
+
+
+body{padding: 0;
+     margin: 0;
+     background-image: url(wall1.png);
+    background-repeat: no-repeat;
+ 
+background-size: 3000px;}
+
+
+
+.menu ul{list-style: none;
+         margin: 0;
+         padding: 0;
+        display: flex;
+      justify-content: space-evenly;}
+
+
+         
+.menu ul li{padding: 15px;
+           position: relative;
+           width: 200px;
+           background-color: rgb(5, 5, 3);
+           border: 1px solid white;
+           cursor: pointer;
+           border-radius: 25px;
+           box-shadow: -2px 2px 2px rgb(0, 0, 0);
+           margin-bottom: 5px;
+           margin-left: 5px;}
+     
+
+.menu ul li:hover {background-color: rgb(139, 200, 225);}
+
+.menu ul li:hover > ul{opacity:1; 
+                       visibility: visible;}
+
+
+.menu ul ul{ transition: all 0.5s ease;
+             opacity:0;
+             position: absolute;
+             visibility: hidden;
+             left: -135%;
+             top: 155%;
+             /* border-left: 5px solid red; */
+             vertical-align: middle;
+            display: flex;
+          flex-direction: column;}
+ 
+.menu ul li a{ color:rgb(89, 150, 179);
+               text-decoration: none;}
+  
+
+  span{margin-right: 15px;}
+
+
+  .menu > ul > li::after:nth-last-of-type(){content: "+";
+                                            position: absolute;
+                                            margin-left: 30%;
+                                            color: black;
+                                            font-size: 20px;}

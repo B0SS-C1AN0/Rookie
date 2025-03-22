@@ -1,0 +1,82 @@
+.france-flag{height: 100px;
+	width: 260px;
+	margin-left:100px;
+	border:1px solid grey;
+background-color:white;
+}
+
+.blue{height: 100px;
+	width: 100px;
+	margin-left:1px;
+	border:1px;
+background-color:blue;
+display: inline-block;}
+
+.red{height: 100px;
+	width: 100px;
+	margin-left:55px ;
+	border:1px;
+	background-color:red;
+     display: inline-block;}
+
+
+
+
+
+
+
+.canada-flag{height: 100px;
+	width: 210px;
+	margin-left:100px;
+	border:1px solid grey;
+background:url(flag2.png);
+}
+
+.red1{height: 100px;
+	width: 75px;
+	margin-left:1px;
+	border:1px;
+background-color:red;
+display: inline-block;}
+
+.red2{height: 100px;
+	width: 75px;
+
+margin-left:55px ;
+	border:1px;
+	background-color:red;
+     display: inline-block;}
+
+
+
+.germany-flag{height:200px;
+	width: 400px;
+	
+	border:1px solid grey;
+background-color:red;
+}
+
+.black{height: 100px;
+	width: 400px;
+	margin-bottom:100px;
+	border:1px;
+background-color:black;
+
+.yellow {height: 100px;
+	width: 400px;
+	margin-bottom:100px ;
+	background-color:yellow;
+     
+}
+
+
+
+
+
+
+
+
+
+
+
+

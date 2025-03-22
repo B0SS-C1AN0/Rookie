@@ -1,0 +1,28 @@
+
+
+.boxing
+{height: 98vh;
+  width: 100vw;
+ 
+  display: grid;
+  gap: 0px;
+  grid-template-columns: repeat(4,2fr);}
+
+.grid{ border: 1px solid black;
+  background-color: aqua;}
+
+  .one{grid-column-start:1;
+    grid-column-end:span 5 ;
+  height: 5vh;
+  margin-bottom: -50px;}
+
+ .two{grid-row-start:2;
+  grid-row-end:span 8 ;
+grid-auto-flow:;
+gap:0px ;
+width: 40px;
+margin-right: -50px;
+}
+
+  .three{grid-row-start:span 5;
+  grid-row-end:span 9 ;}

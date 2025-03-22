@@ -1,0 +1,40 @@
+.parent{
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  grid-template-columns:repeat(2,1fr);
+}
+.child{
+  border: 1px solid hsl(0, 0%, 0%);
+
+
+}
+.one{
+background-color: hsl(50, 100%, 50%);
+
+}
+.two{background-color: hsl(0, 0%, 0%);
+}
+.three{
+border: 1px solid hsl(0, 0%, 0%);
+}
+.four{
+  border: 1px solid hsl(0, 0%, 0%);
+
+}
+.five{
+  border: 1px solid hsl(0, 0%, 0%);
+
+}
+.six{ border: 1px solid hsl(0, 0%, 0%);
+
+}
+
+.seven{
+  border: 1px solid hsl(0, 0%, 0%);
+
+}
+.eight{
+  border: 1px solid hsl(0, 0%, 0%);
+  
+}

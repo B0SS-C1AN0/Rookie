@@ -1,0 +1,100 @@
+.parent{
+  width: 500px;
+  height: 500px;
+  border: 4px dashed firebrick;
+  border-radius: 50%;
+  position: relative;left: 50%;
+position: relative;bottom:-500px;
+transition: 2s;
+
+background-color: rgba(255, 0, 0, 0.128);
+box-shadow: 10px 10px 0px black;}
+
+.parent:hover{
+  transform: rotate(180deg);
+}
+
+
+.one{
+  width:50px ;
+  height: 50px ;
+  border-radius: 50%;
+  border: 4px solid rgb(0, 0, 0);
+  position: relative;
+  left: 50%;
+  top: 20px;
+  background-color: rgb(88, 87, 87);
+  font-weight: 800;
+  font-size: 40px;
+  color: black;
+}
+
+.two{
+  width:50px ;
+  height: 50px ;
+  border-radius: 50%;
+  border: 4px solid rgb(0, 0, 0);
+  position: relative;
+  left: 50px;
+  top: 50px;
+  background-color: rgb(96, 95, 95);
+  font-weight: 800;
+  font-size: 40px;
+  color: black;
+}
+
+.three{
+  width:50px ;
+  height: 50px ;
+  border-radius: 50%;
+  border: 4px solid rgb(0, 0, 0);
+  position: relative;
+  left: 120px;
+  top: 280px;
+  background-color: rgb(91, 91, 91);
+  font-weight: 800;
+  font-size: 40px;
+  color: black;
+}
+
+.four{
+  width:50px ;
+  height: 50px ;
+  border-radius: 50%;
+  border: 4px solid rgb(0, 0, 0);
+  position: relative;
+  left: 10px;
+  top: 20%;
+  background-color: rgb(96, 96, 96);
+  font-weight: 800;
+  font-size: 40px;
+  color: black;
+}
+
+.five{
+  width:50px ;
+  height: 50px ;
+  border-radius: 50%;
+  border: 4px solid rgb(0, 0, 0);
+  position: relative;
+  left: 350px;
+  top: 140px;
+  background-color: rgb(104, 104, 104);
+  font-weight: 800;
+  font-size: 40px;
+  color: black;
+}
+
+.six{
+  width:50px ;
+  height: 50px ;
+  border-radius: 50%;
+  border: 4px solid rgb(0, 0, 0);
+  position: relative;
+  left: 420px;
+  top: -120px;
+  background-color: rgb(110, 110, 110);
+  font-weight: 800;
+  font-size: 40px;
+  color: black;
+}

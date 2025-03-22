@@ -1,0 +1,24 @@
+.parent{
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  grid-template-columns:repeat(3,1fr);
+}
+.child{
+  border: 1px solid hsl(0, 0%, 0%);
+
+}
+.one{
+background-color: hsl(0, 100%, 50%);
+grid-column-start: 1;
+grid-column-end: 4;
+}
+.two{background-color: hsl(180, 100%, 50%);
+  grid-row-start: 2;
+grid-row-end: 5;
+width: 25vw;}
+.three{background-color: hsl(63, 100%, 50%);}
+.four{background-color: hsl(254, 100%, 30%);}
+.five{background-color: hsla(64, 100%, 54%, 0.587);}
+.six{background-color: hsl(0, 0%, 100%);}
+.seven{background-color: hsl(325, 76%, 36%);}
